@@ -1,0 +1,20 @@
+---
+layout: nav.dot
+title: Index Page
+---
+
+[[##content:
+	[[= partial('pages/about.dot')]]
+
+	[[= partial('pages/experience.dot')]]
+
+	[[= partial('pages/education.dot')]]
+
+	[[= partial('pages/education.dot')]]
+
+	[[= partial('pages/skill.dot')]]
+
+	[[= partial('pages/interest.dot')]]
+
+	[[= partial('pages/awards.dot')]]
+#]]
